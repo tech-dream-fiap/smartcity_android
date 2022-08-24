@@ -6,35 +6,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <EditText
-        android:id="@+id/email"
-        android:layout_width="366dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:hint="email"
-        android:inputType="text"
-        android:textSize="24dp" />
 
-    <EditText
-        android:id="@+id/pwd"
-        android:layout_width="366dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="20dp"
-        android:hint="password"
-        android:inputType="textPassword"
-        android:textColorHint="#78909C"
-        android:textSize="24dp" />
-
-    <Button
-        android:id="@+id/register"
-        android:layout_width="227dp"
-        android:layout_height="wrap_content"
-        android:layout_margin="90dp"
-        android:onClick="register"
-        android:text="Register"
-        android:textSize="20sp"
-        tools:ignore="OnClick" />
 
 </LinearLayout>
