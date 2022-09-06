@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.login
+package com.example.floodvise.ui.login
 
 /**
  * User details post authentication that is exposed to the UI

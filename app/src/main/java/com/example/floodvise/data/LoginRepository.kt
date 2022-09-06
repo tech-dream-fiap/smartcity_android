@@ -1,6 +1,6 @@
-package com.example.myapplication.data
+package com.example.floodvise.data
 
-import com.example.myapplication.data.model.LoggedInUser
+import com.example.floodvise.data.model.LoggedInUser
 
 /**
  * Class that requests authentication and user information from the remote data source and

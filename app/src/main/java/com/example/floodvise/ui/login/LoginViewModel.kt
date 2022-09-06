@@ -1,13 +1,13 @@
-package com.example.myapplication.ui.login
+package com.example.floodvise.ui.login
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import android.util.Patterns
-import com.example.myapplication.data.LoginRepository
-import com.example.myapplication.data.Result
+import com.example.floodvise.data.LoginRepository
+import com.example.floodvise.data.Result
 
-import com.example.myapplication.R
+import com.example.floodvise.R
 
 class LoginViewModel(private val loginRepository: LoginRepository) : ViewModel() {
 

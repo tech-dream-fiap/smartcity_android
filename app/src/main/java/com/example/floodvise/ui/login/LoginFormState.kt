@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.login
+package com.example.floodvise.ui.login
 
 /**
  * Data validation state of the login form.

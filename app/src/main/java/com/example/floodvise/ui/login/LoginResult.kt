@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.login
+package com.example.floodvise.ui.login
 
 /**
  * Authentication result : success (user details) or error message.

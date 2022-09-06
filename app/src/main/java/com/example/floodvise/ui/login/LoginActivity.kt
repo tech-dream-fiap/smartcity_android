@@ -1,4 +1,4 @@
-package com.example.myapplication.ui.login
+package com.example.floodvise.ui.login
 
 import android.app.Activity
 import android.content.Intent
@@ -13,10 +13,10 @@ import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.widget.EditText
 import android.widget.Toast
-import com.example.myapplication.MainActivity
-import com.example.myapplication.databinding.ActivityLoginBinding
+import com.example.floodvise.MainActivity
+import com.example.floodvise.databinding.ActivityLoginBinding
 
-import com.example.myapplication.R
+import com.example.floodvise.R
 
 class LoginActivity : AppCompatActivity() {
 
